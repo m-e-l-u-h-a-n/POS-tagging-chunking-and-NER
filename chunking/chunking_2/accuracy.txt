@@ -1,0 +1,12 @@
+processed 47377 tokens with 23852 phrases; found: 23788 phrases; correct: 22295.
+accuracy:  95.93%; precision:  93.72%; recall:  93.47%; FB1:  93.60
+             ADJP: precision:  79.46%; recall:  73.29%; FB1:  76.25  404
+             ADVP: precision:  82.28%; recall:  80.95%; FB1:  81.61  852
+            CONJP: precision:  71.43%; recall:  55.56%; FB1:  62.50  7
+             INTJ: precision: 100.00%; recall:  50.00%; FB1:  66.67  1
+              LST: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+               NP: precision:  94.25%; recall:  93.86%; FB1:  94.05  12370
+               PP: precision:  96.61%; recall:  97.80%; FB1:  97.20  4870
+              PRT: precision:  74.51%; recall:  71.70%; FB1:  73.08  102
+             SBAR: precision:  88.85%; recall:  84.86%; FB1:  86.81  511
+               VP: precision:  93.62%; recall:  93.88%; FB1:  93.75  4671
